@@ -1,0 +1,32 @@
+[
+    {
+      "id": "01",
+      "name": "JavaScript for beginners",
+      "course_details_id":"0282e0e58a5c404fbd15261f11c2ab6a"
+    },
+    {
+      "id": "02",
+      "name": "React Js",
+      "course_details_id":"0282e0e58a5c404fbd15261f11c2ab6b"
+    },
+    {
+      "id": "03",
+      "name": "Laravel Course",
+      "course_details_id":"f69a695f037cd9484cecaea37ca71011"
+    },
+    {
+      "id": "04",
+      "name": "Django",
+      "course_details_id":"f69a695f037cd9484cecaea37ca71012"
+    },
+    {
+      "id": "05",
+      "name": "Python Fundamental",
+      "course_details_id":"11468ed61aee84de492a8b04158a22f9"
+    },
+    {
+      "id": "06",
+      "name": "Artificial intelligence",
+      "course_details_id":"0282e0e58a5c404fbd15261f11c2ab6a"
+    }
+  ]
